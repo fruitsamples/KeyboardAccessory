@@ -32,6 +32,9 @@ A nib file containing a keyboard accessory view.
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 
+Version 1.3
+- viewDidUnload now releases IBOutlets, added localization support.
+
 Version 1.2
 - Updated to use new keyboard notification constants.
 
@@ -39,4 +42,4 @@ Version 1.0
 - First version.
 
 ===========================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2010 Apple Inc. All rights reserved.
